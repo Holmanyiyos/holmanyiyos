@@ -7,6 +7,8 @@ Habilidades: REACT / JS / HTML / CSS / GIT / SASS / NODE
 - 🌱 Estoy aprendiendo SQL 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/holmanyiyos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Holman-Plazas/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/holmanyiyos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Holman-Plazas/)
+
+#### Acá tienes mi portafolio: https://holmanyiyos.github.io/portafolio-react/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holmanyiyos)](https://github.com/anuraghazra/github-readme-stats)
